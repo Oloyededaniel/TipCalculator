@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">TIPCalculator</string>
+    <string name="Tip_Calc">Tip Calculator</string>
+    <string name="Tip">Tip</string>
+    <string name="Total">Total</string>
+    <string name="Tip_Message">Tip Message:</string>
+    <string name="tip_percentage">Tip percentage:</string>
+    <string name="base_amount">Base Amount</string>
+    <string name="made_by_daniel">MADE BY DANIEL</string>
+
+</resources>
